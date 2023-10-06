@@ -1,6 +1,4 @@
-import logging
-import sys
-import typing as t
+import logging, sys, typing as t
 
 from werkzeug.local import LocalProxy
 
